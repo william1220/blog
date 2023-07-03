@@ -24,7 +24,7 @@ The content on this project is based on GO rails Build a Blog with Rails 7
 
 ## Built With
 
-Ruby, Javascript, HTML, CSS(SCSS), Active Record, Bootstrap,
+Ruby  3.1.2p20 (2022-04-12 revision 4491bb740a) ,Ruby on Rails 7.0.6 Javascript, HTML, CSS(SCSS), Active Record, Bootstrap,
 
 ## Authors
 
