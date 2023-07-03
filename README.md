@@ -1,24 +1,42 @@
-# README
+<br/>
+<p align="center">
+  <a href="https://github.com/william1220/Ruby_with_Go_Rails">
+    <img src="assets/readme.png" alt="Logo" width="80" height="80">
+  </a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  <h3 align="center">Ruby on Rails with GoRails</h3>
 
-Things you may want to cover:
+</p>
 
-* Ruby version
+![Contributors](https://img.shields.io/github/contributors/william1220/Ruby_with_Go_Rails?color=dark-green)
 
-* System dependencies
+## Table Of Contents
 
-* Configuration
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Ruby](#ruby)
+  * [Password Manager](#password-manager)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-* Database creation
+## About The Project
 
-* Database initialization
+This Project is built with Ruby on Rails Framework. The Purpose of  this repo is to learn and enhance my skills on Ruby on Rails Framework with go Rails.
+The content on this project is based on GO rails Build a Blog with Rails 7
 
-* How to run the test suite
+## Built With
 
-* Services (job queues, cache servers, search engines, etc.)
+Ruby, Javascript, HTML, CSS(SCSS), Active Record, Bootstrap,
 
-* Deployment instructions
+## Authors
 
-* ...
+
+[//]: contributor-faces
+
+<a href="https://github.com/william1220"><img src="https://avatars.githubusercontent.com/u/23138486?v=4" title="William Dela Rosa" width="80" height="80"></a>
+
+[//]: contributor-faces
+
+## Acknowledgements
+
+* [Go Rails](https://gorails.com/)
