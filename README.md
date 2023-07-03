@@ -14,8 +14,6 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Ruby](#ruby)
-  * [Password Manager](#password-manager)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
